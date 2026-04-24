@@ -1,6 +1,8 @@
 # Analysis-of-CO-2-emissions-from-passenger-cars-in-Europe
 This repository contains an analysis of CO2 emissions from passenger cars in Europe. It includes datasets, code, and visualizations for evaluating and understanding the CO2 emissions levels of different car models, brands, and regions within Europe.
 
+<img width="1280" height="720" alt="Electrify Europe A Sustainable Future for Passenger Car" src="https://github.com/user-attachments/assets/9fa11e69-54d1-4327-aca7-5c1545becf99" />
+
 Key Features:
 
 Datasets containing CO2 emissions data from passenger cars in Europe.
@@ -8,6 +10,9 @@ Data cleaning and preprocessing techniques for preparing the data.
 Comparative analysis of CO2 emissions by car models, brands, and regions.
 Visualizations and charts to present the CO2 emissions trends and insights.
 Open-source project, fostering collaboration and contributions.
+
+<img width="1280" height="720" alt="Electrify Europe A Sustainable Future for Passenger Cars" src="https://github.com/user-attachments/assets/1a8faa9e-d66e-4f59-babb-a1e68edbd535" />
+
 Benefits:
 
 Analyze and understand the CO2 emissions levels of passenger cars in Europe.
